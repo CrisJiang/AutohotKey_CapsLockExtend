@@ -1,8 +1,11 @@
+- en [English](readme_en.md)
+- zh_CN [简体中文](README.md)
+
 # AutohotKey_CapsLockExtend
 
-use Autohotkey v1 to extend CapsLock function
+使用 Autohotkey v1 实现的大写键扩展功能
 
-# Functions
+# 功能
 
 ## edit state / 编辑模式
 
